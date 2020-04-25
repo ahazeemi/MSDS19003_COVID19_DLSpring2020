@@ -27,20 +27,20 @@ vgg16_FC_Only.pth (https://drive.google.com/file/d/1--Tj8lepeMVBhjLGD-KyswcUtxpx
 94.5%
 
 **Confusion Matrix:**
-|         |Predicted Normal        | Predicted Infected  |
+|         |Predicted Infected        | Predicted Normal  |
 | ------------- |:-------------:| -----:|
-| Actual Normal      | 538 | 77 |
-| Actual Infected      | 5      |   880 |
+| Actual Infected      | 538 | 77 |
+| Actual Normal      | 5      |   880 |
 
 ### VGG-16 Model
 **Accuracy on test data:**
 94.93%
 
 **Confusion Matrix:**
-|         |Predicted Normal        | Predicted Infected  |
+|         |Predicted Infected        | Predicted Normal  |
 | ------------- |:-------------:| -----:|
-| Actual Normal      | 546 | 69 |
-| Actual Infected      | 7      |   878 |
+| Actual Infected      | 546 | 69 |
+| Actual Normal      | 7      |   878 |
 
 
 ## Results (Transfer learning on ResNet-18 and VGG-16 models trained on ImageNet - training only the fully connected layers)
@@ -51,17 +51,17 @@ vgg16_FC_Only.pth (https://drive.google.com/file/d/1--Tj8lepeMVBhjLGD-KyswcUtxpx
 93%
 
 **Confusion Matrix:**
-|         |Predicted Normal        | Predicted Infected  |
+|         |Predicted Infected        | Predicted Normal  |
 | ------------- |:-------------:| -----:|
-| Actual Normal      | 528 | 87 |
-| Actual Infected      | 19      |   866 |
+| Actual Infected      | 528 | 87 |
+| Actual Normal      | 19      |   866 |
 
 ### VGG-16 Model
 **Accuracy on test data:**
 93.06%
 
 **Confusion Matrix:**
-|         |Predicted Normal        | Predicted Infected  |
+|         |Predicted Infected        | Predicted Normal  |
 | ------------- |:-------------:| -----:|
-| Actual Normal      | 534 | 81 |
-| Actual Infected      | 23      |   862 |
+| Actual Infected      | 534 | 81 |
+| Actual Normal      | 23      |   862 |
