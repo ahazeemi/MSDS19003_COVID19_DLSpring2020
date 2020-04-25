@@ -65,3 +65,13 @@ vgg16_FC_Only.pth (https://drive.google.com/file/d/1--Tj8lepeMVBhjLGD-KyswcUtxpx
 | ------------- |:-------------:| -----:|
 | Actual Infected      | 534 | 81 |
 | Actual Normal      | 23      |   862 |
+
+
+
+### Summary
+
+|         |Whole Network Training       | FC layer training  |
+| ------------- |:-------------:| -----:|
+| ResNet      | 94.5 | 93 |
+| VGG      | 94.92     |   93.06 |
+
