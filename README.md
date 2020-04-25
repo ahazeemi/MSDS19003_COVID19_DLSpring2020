@@ -5,6 +5,13 @@ This repository contains code and results for COVID-19 classification assignment
 ## Dataset
 https://drive.google.com/a/itu.edu.pk/uc?id=1-HQQciKYfwAO3oH7ci6zhg45DduvkpnK&export=download%27
 
+## Models:
+res18_entire.pth (https://drive.google.com/file/d/1ncpcMC1b1hRQH8JoOQPYWdoyAGUAApnU/view?usp=sharing)
+vgg16_entire.pth (https://drive.google.com/file/d/1-2UXfpnjJG2uNoes0upuOKKjdYuzX14u/view?usp=sharing)
+
+res18_FC_Only.pth (https://drive.google.com/file/d/1-1m_hyohkuPjB7Bm5ec-JTfOdMyc7HNY/view?usp=sharing)
+vgg16_FC_Only.pth (https://drive.google.com/file/d/1--Tj8lepeMVBhjLGD-KyswcUtxpxf1C7/view?usp=sharing)
+
 ## Results (ResNet-18 and VGG-16 models trained on Chest X-Rays dataset)
 
 ### ResNet-18 Model 
