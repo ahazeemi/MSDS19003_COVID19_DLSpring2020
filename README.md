@@ -73,5 +73,5 @@ vgg16_FC_Only.pth (https://drive.google.com/file/d/1--Tj8lepeMVBhjLGD-KyswcUtxpx
 |         |Whole Network Training       | FC layer training  |
 | ------------- |:-------------:| -----:|
 | ResNet      | 94.5 | 93 |
-| VGG      | 94.92     |   93.06 |
+| VGG      | 94.93     |   93.06 |
 
