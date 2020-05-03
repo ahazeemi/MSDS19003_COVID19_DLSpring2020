@@ -81,6 +81,10 @@ vgg16_FC_Only.pth (https://drive.google.com/file/d/1--Tj8lepeMVBhjLGD-KyswcUtxpx
 
 # Part 2
 
+## Dataset
+https://drive.google.com/file/d/1eytbwaLQBv12psV8I-aMkIli9N3bf8nO/view?usp=sharing
+
+
 ## Models:
 
 vgg16_focal_loss.pth: https://drive.google.com/file/d/1-9W0kf8vZ6gvrFMDWhodLz9WD3aijZGS/view?usp=sharing
