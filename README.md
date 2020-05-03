@@ -5,6 +5,8 @@ This repository contains code and results for COVID-19 classification assignment
 ## Dataset
 https://drive.google.com/a/itu.edu.pk/uc?id=1-HQQciKYfwAO3oH7ci6zhg45DduvkpnK&export=download%27
 
+# Part 1 
+
 ## Models:
 
 
@@ -77,5 +79,16 @@ vgg16_FC_Only.pth (https://drive.google.com/file/d/1--Tj8lepeMVBhjLGD-KyswcUtxpx
 | VGG      | 94.93     |   93.06 |
 
 
+# Part 2
+
+## Models:
+
+vgg16_focal_loss.pth: https://drive.google.com/file/d/1-9W0kf8vZ6gvrFMDWhodLz9WD3aijZGS/view?usp=sharing
+res18_focal_loss.pth https://drive.google.com/file/d/1-B-VlLcGQ1NZDrNGmnow4PDs1JfW9xjw/view?usp=sharing
+
+## Results (without focal loss)
+
+
+## Results (with focal loss)
 
 
