@@ -88,7 +88,24 @@ res18_focal_loss.pth https://drive.google.com/file/d/1-B-VlLcGQ1NZDrNGmnow4PDs1J
 
 ## Results (without focal loss)
 
+### VGG-16
+<img src="https://github.com/ahazeemi/MSDS19003_COVID19_DLSpring2020/blob/master/Images/task1vgg.png">
+
+### ResNet-18
+<img src="https://github.com/ahazeemi/MSDS19003_COVID19_DLSpring2020/blob/master/Images/task1resnet.png">
 
 ## Results (with focal loss)
+
+### VGG-16
+<img src="https://github.com/ahazeemi/MSDS19003_COVID19_DLSpring2020/blob/master/Images/task2vgg.png">
+
+#### Confusion Matrix (multi-label)
+<img src="https://github.com/ahazeemi/MSDS19003_COVID19_DLSpring2020/blob/master/Images/confusion_matrix_vgg_task2.png">
+
+### ResNet-18
+<img src="https://github.com/ahazeemi/MSDS19003_COVID19_DLSpring2020/blob/master/Images/task2resnet.png">
+
+#### Confusion Matrix (multi-label)
+<img src="https://github.com/ahazeemi/MSDS19003_COVID19_DLSpring2020/blob/master/Images/confusion_matrix_resnet_task2.png">
 
 
