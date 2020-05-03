@@ -89,23 +89,27 @@ res18_focal_loss.pth https://drive.google.com/file/d/1-B-VlLcGQ1NZDrNGmnow4PDs1J
 ## Results (without focal loss)
 
 ### VGG-16
-<img src="https://github.com/ahazeemi/MSDS19003_COVID19_DLSpring2020/blob/master/Images/task1vgg.png">
+<img src="https://github.com/ahazeemi/MSDS19003_COVID19_DLSpring2020/blob/master/Images/task1vgg.png" width="350">
 
 ### ResNet-18
-<img src="https://github.com/ahazeemi/MSDS19003_COVID19_DLSpring2020/blob/master/Images/task1resnet.png">
+<img src="https://github.com/ahazeemi/MSDS19003_COVID19_DLSpring2020/blob/master/Images/task1resnet.png" width="350">
 
 ## Results (with focal loss)
 
 ### VGG-16
-<img src="https://github.com/ahazeemi/MSDS19003_COVID19_DLSpring2020/blob/master/Images/task2vgg.png">
+
+#### F1-Score curve
+<img src="https://github.com/ahazeemi/MSDS19003_COVID19_DLSpring2020/blob/master/Images/task2vgg.png" width="350">
 
 #### Confusion Matrix (multi-label)
-<img src="https://github.com/ahazeemi/MSDS19003_COVID19_DLSpring2020/blob/master/Images/confusion_matrix_vgg_task2.png">
+<img src="https://github.com/ahazeemi/MSDS19003_COVID19_DLSpring2020/blob/master/Images/confusion_matrix_vgg_task2.png" width="350">
 
 ### ResNet-18
-<img src="https://github.com/ahazeemi/MSDS19003_COVID19_DLSpring2020/blob/master/Images/task2resnet.png">
+
+#### F1-Score curve
+<img src="https://github.com/ahazeemi/MSDS19003_COVID19_DLSpring2020/blob/master/Images/task2resnet.png" width="350">
 
 #### Confusion Matrix (multi-label)
-<img src="https://github.com/ahazeemi/MSDS19003_COVID19_DLSpring2020/blob/master/Images/confusion_matrix_resnet_task2.png">
+<img src="https://github.com/ahazeemi/MSDS19003_COVID19_DLSpring2020/blob/master/Images/confusion_matrix_resnet_task2.png" width="350">
 
 
