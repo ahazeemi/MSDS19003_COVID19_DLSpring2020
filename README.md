@@ -87,8 +87,8 @@ https://drive.google.com/file/d/1eytbwaLQBv12psV8I-aMkIli9N3bf8nO/view?usp=shari
 
 ## Models:
 
-vgg16_focal_loss.pth: https://drive.google.com/file/d/1-9W0kf8vZ6gvrFMDWhodLz9WD3aijZGS/view?usp=sharing
-res18_focal_loss.pth https://drive.google.com/file/d/1-B-VlLcGQ1NZDrNGmnow4PDs1JfW9xjw/view?usp=sharing
+vgg16_focal_loss.pth: https://drive.google.com/file/d/1-8VWoJI0-xKAARyNlHSbM6FsvcRxp0s5/view?usp=sharing
+res18_focal_loss.pth https://drive.google.com/file/d/1-AmvECf0su2LFlD-odsgTLHEMebp8Kvc/view?usp=sharing
 
 ## Results (without focal loss)
 
